@@ -58,9 +58,8 @@ const startAutoSlide = () => {
   },5000)
   
 }
-//startAutoSlide()
+startAutoSlide()
 
-/*
 
 img.addEventListener('mouseover', () => {
     clearInterval(intervalId)
@@ -68,7 +67,7 @@ img.addEventListener('mouseover', () => {
 
 img.addEventListener('mouseout', () => {
   startAutoSlide()
-}) */
+}) 
   
 
 
